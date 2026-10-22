@@ -1,0 +1,24 @@
+{
+  "animationResampling" : "source-crop-high-quality",
+  "bottomPadding" : 42,
+  "clockPresentation" : "right-column-menu-stack",
+  "duration" : 6.666666666666667,
+  "edgeFill" : "none",
+  "fps" : 12,
+  "frameCount" : 80,
+  "glassRectOnScreenPoints" : [
+
+  ],
+  "glassRendering" : "none",
+  "pixelHeight" : 600,
+  "pixelWidth" : 416,
+  "posterPixelHeight" : 600,
+  "posterPixelWidth" : 416,
+  "posterScale" : 2,
+  "scale" : 2,
+  "source" : "fv_movie2.mp4",
+  "sourceCropX" : 180,
+  "topPadding" : 10,
+  "visiblePixelHeight" : 496,
+  "visiblePixelWidth" : 416
+}

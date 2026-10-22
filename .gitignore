@@ -1,0 +1,14 @@
+# Xcode
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+
+# 原视频不入库
+assets/*
+!assets/README.md
+
+._*
+
+__MACOSX/
